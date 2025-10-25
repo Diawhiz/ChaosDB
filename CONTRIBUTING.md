@@ -13,8 +13,9 @@ We adhere to the [Contributor Covenant](https://www.contributor-covenant.org/ver
 
 ## How to Contribute
 1. **Fork the Repository**:
-   - Create your own fork of the [ChaosDB repository](https://github.com/yourusername/chaosdb).
+   - Create your own fork of the [ChaosDB repository](https://github.com/diawhiz/chaosdb).
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/chaosdb.git
+   git clone https://github.com/diawhiz/chaosdb.git
    cd chaosdb
+```
