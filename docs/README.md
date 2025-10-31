@@ -6,7 +6,7 @@
 
 **Version:** 0.1 (Pre-alpha)  
 **License:** MIT License  
-**Last Updated:** October 31, 2025
+**Last Updated:** November 1, 2025
 
 ---
 
@@ -111,7 +111,7 @@ chaosdb/
 
 ## Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please see [CONTRIBUTING.md](chaosdb/docs/CONTRIBUTING.md) for guidelines.
 
 ---
 
