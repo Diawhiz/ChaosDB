@@ -18,5 +18,5 @@ ChaosDB is an innovative, open-source, secure database system designed for unpre
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chaosdb.git
+   git clone https://github.com/diawhiz/chaosdb.git
    cd chaosdb
