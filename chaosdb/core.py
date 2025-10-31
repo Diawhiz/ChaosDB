@@ -6,6 +6,7 @@ from cryptography.fernet import fernet
 from cryptography.hazmat.primitives.kdf.hkdf import HKDF
 from cryptography.hazmat.primitives import hashes
 import time
+import shutil
 
 class ChaosDB:
     def __init__(self, backup_dir="backups"):
@@ -19,3 +20,15 @@ class ChaosDB:
         self.backup_dir = backup_dir
         os.makedirs(backup_dir, exist_ok=True)
         self.load_backup()  # Load last backup on startup
+        
+    def _derive_key(self, password, salt):
+        """Derive encryption and authentication keys."""
+        hkdf = HKDF(
+            algorithm=hashes.SHA256(),
+            length=32,
+            salt=salt,
+            info=b'chaosdb-auth'
+        )
+        return hkdf.derive(password.encode())
+        
+        
