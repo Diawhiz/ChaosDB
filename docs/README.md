@@ -1,18 +1,18 @@
 # ChaosDB
 
 [![Version](https://img.shields.io/badge/version-0.1--pre--alpha-blue)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-Apache2.0-yellow.svg)](LICENSE)
 [![Assembly](https://img.shields.io/badge/assembly.svg)]()
 
 **Version:** 0.1 (Pre-alpha)  
-**License:** MIT License
+**License:** Apache 2.0 License
 **Last Updated:** November 1, 2025
 
 ---
 
 ## Description
 
-ChaosDB is an innovative, open-source, secure database system designed for unpredictable data storage and robust access control. It leverages the concept of Chaos Theory to be applied and build a more secure and robust database system that enhances AI and solves the current limitations in the AI industry.
+ChaosDB is an innovative, open-source, secure database system designed for unpredictable data storage and robust access control. It leverages the concept of Chaos Theory to be applied and build a more secure and robust database system through a decentralised system that enhances AI and solves the current limitations in the AI industry.
 ---
 
 ## Features
