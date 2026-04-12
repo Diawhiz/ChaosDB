@@ -1,7 +1,7 @@
 # ChaosDB
 
 [![Version](https://img.shields.io/badge/version-0.1--pre--alpha-blue)]()
-[![License: MIT](https://img.shields.io/badge/License-Apache2.0-yellow.svg)](LICENSE)
+[![License: Apache2.0](https://img.shields.io/badge/License-Apache2.0-yellow.svg)](LICENSE)
 [![Assembly](https://img.shields.io/badge/assembly.svg)]()
 
 **Version:** 0.1 (Pre-alpha)  
@@ -34,7 +34,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache2.0 License](LICENSE).
 
 ---
 
